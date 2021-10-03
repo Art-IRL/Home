@@ -69,7 +69,7 @@ article {
     text-shadow: .1em .1em .075em black; 
 */
     width: 100%;
-    height: 25%;
+    height: auto;
 }
 #globalnav {
     background: #044881;
@@ -293,7 +293,7 @@ footer {
         height: auto;
     }
     #backtotop {
-        right: 5.25em;
+        right: 5.75em;
         bottom: 5.75em;
     }
 }
