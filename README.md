@@ -48,7 +48,6 @@
             </ol>
             </div>
             <div class="" id="academic">
-           
             <ul> <h3> Academic Support</h3>
                 <li> Ongoing k-12 Literacy Program</li><br>
                 <li> Afterschool Homework Center</li><br>
