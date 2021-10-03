@@ -34,7 +34,6 @@
         <p>ART IRL strives to build respectful, confident, and curious learners who celebrate the diversity and inclusivity.<blockquote>
         Logic will get you from A to B. Imagination will take you everywhere. Albert Einstein
         </blockquote>
-    </article>
     <article id="what"><h2>What We Do</h2>
         <section class="column">           
             <div class="art">
