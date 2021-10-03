@@ -21,7 +21,7 @@ ul.gallery {
   padding: 0;
   color: #fffad8;
   width: calc(100% - 8px);
-  height: calc(100% - 8px);
+  height: calc(100% + 8px);
   opacity: 0;
   text-align: center;
 }
