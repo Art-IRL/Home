@@ -30,7 +30,7 @@
     <main id="content">
     <article id="about">
         <h2>Who We Are</h2>
-        <p id="one"> ART IRL's our mission is to provide underserved youth with opportunities that promote intellectual inquiry, cultivate creativity, foster innovative research and discovery, nurture excellence in ethical and moral decision-making and leadership to expand their expectations and ambitions in life through superior Arts education, academic support, family services, and scholarship.</p>
+        <p id="one"> ART IRL's mission is to provide underserved youth with opportunities that promote intellectual inquiry, cultivate creativity, foster innovative research and discovery, nurture excellence in ethical and moral decision-making and leadership to expand their expectations and ambitions in life through superior Arts education, academic support, family services, and scholarship.</p>
         <p>ART IRL strives to build respectful, confident, and curious learners who celebrate the diversity and inclusivity.</p>
         <p>"Logic will get you from A to B. Imagination will take you everywhere." ~ Albert Einstein</p>
     <article id="what"><h2>What We Do</h2>
