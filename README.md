@@ -111,7 +111,7 @@
             <li><a href="mailto:info@artirl.org"><img id="Email" src="images/iconfinder_icon-email-material-design_3185260.png"></a></li>
             </ul>
         </article>        
-    </main>    
+    
 <!--///// EVENTUALLY THIS WEBSITE WILL NEED TO INCLUDE:
 A STUDENT REGISTRATION FORM
 VOLUNTEER REGISTRATION FORM
@@ -161,5 +161,4 @@ WORKING SOCIAL MEDIA LINKS!!!!
     });
     </script>
     <script src="js/lightbox.js" ></script>
-</body>
-</html>
+
