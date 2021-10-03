@@ -32,7 +32,7 @@ header, footer, footer p {
 }
 header div {
     position: absolute;
-    padding-top: 3em;
+    padding-top: 5em;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
