@@ -215,8 +215,8 @@ footer {
 }
 #backtotop {
     position: fixed;
-    right: 10px;
-    bottom: 55px;
+    right: 5.25em;
+    bottom: 5.75em;
     color: #fffad8;
     text-decoration: none;
     font-weight: bold;
@@ -293,7 +293,7 @@ footer {
         height: auto;
     }
     #backtotop {
-        right: 5.75em;
+        right: 5.25em;
         bottom: 5.75em;
     }
 }
