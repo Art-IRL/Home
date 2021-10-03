@@ -32,7 +32,7 @@ header, footer, footer p {
 }
 header div {
     position: absolute;
-    padding-top: 5em;
+    padding-top: 3em;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -60,7 +60,7 @@ article {
     box-shadow: 0 0 7px 3px rgba(0,0,0,0.5);
 }
 #title { 
-    font-size: 2em;
+    font-size: 4em;
     font-weight: bold;
     color: #FEE339;
     text-shadow: .1em .1em .075em black;
