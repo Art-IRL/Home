@@ -152,7 +152,6 @@ article {
 .column {
     display: flex;
     flex-direction: column;
-    column-width: auto;
     height: 60vh;
     flex-wrap: wrap;
     border: 2.5px solid #044881;
