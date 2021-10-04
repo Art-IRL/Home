@@ -152,6 +152,7 @@ article {
 .column {
     display: flex;
     flex-direction: column;
+    column-width: auto;
     height: 60vh;
     flex-wrap: wrap;
     border: 2.5px solid #044881;
@@ -169,7 +170,6 @@ article {
   border-right: 2.5px solid #044881;
   border-bottom: 2.5px solid #044881;
   border-left: 2.5px solid #044881;
-  border top: 2.5px solid #044881;
   flex-wrap: wrap;
   justify-content: space-around;
 }
