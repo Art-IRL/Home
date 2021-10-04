@@ -32,7 +32,7 @@
         <h2>Who We Are</h2>
         <p id="one"> ART IRL's mission is to provide underserved youth with opportunities that promote intellectual inquiry, cultivate creativity, foster innovative research and discovery, nurture excellence in ethical and moral decision-making and leadership to expand their expectations and ambitions in life through superior Arts education, academic support, family services, and scholarship.</p>
         <p>ART IRL strives to build respectful, confident, and curious learners who celebrate the diversity and inclusivity.</p>
-        <blockquote>"Logic will get you from A to B. Imagination will take you everywhere." ~ Albert Einstein</blockquote>
+        <blockquote>"Logic will get you from A to B. Imagination will take you everywhere." Albert Einstein</blockquote>
     <article id="what"><h2>What We Do</h2>
         <section class="column">           
             <div class="art">
