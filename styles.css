@@ -160,7 +160,7 @@ article {
     text-align: center;
 }
 .column div {
-    width: 50%;
+    width: 44%;
 }
 .column div#academic {
     border-left: 2.5px solid #044881;
@@ -170,6 +170,7 @@ article {
   border-right: 2.5px solid #044881;
   border-bottom: 2.5px solid #044881;
   border-left: 2.5px solid #044881;
+  border top: 2.5px solid #044881;
   flex-wrap: wrap;
   justify-content: space-around;
 }
